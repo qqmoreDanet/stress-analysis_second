@@ -1,13 +1,7 @@
-pip
 streamlit
 pandas
 numpy
-tensorflow
+tensorflow==2.18.0
 joblib
 plotly
 scipy
-io
-base64
-os
-functools
-scikit-learn
