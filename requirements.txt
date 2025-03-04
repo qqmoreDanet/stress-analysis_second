@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+tensorflow
+joblib
+plotly
+scipy
+io
+base64
+os
+functools
+scikit-learn
