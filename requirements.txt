@@ -5,3 +5,4 @@ tensorflow==2.18.0
 joblib
 plotly
 scipy
+scikit-learn
